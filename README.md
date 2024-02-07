@@ -12,6 +12,7 @@ Specifikācijai jābūt šeit:
 Specifikācija:
 * Programmā jābut iespējai apskatīt savu iepirkumu sarakstu.
 * Programmā jābut iespējai pievienot lietas pie sava iepirkuma saraksta.
+* Programmā jābut iespējai atzimēt jau paņemtās lietas.
 * Programmā jābūt iespējai noņemt/izdzēst lietas no sava iepirkuma saraksta.
 * Programmai jābut kaut cik noformētai
 * Programmā jābut iespējai ievadīt preču skaitu (ja vienāda prece tiek pirkta lielākā daudzumā par 1)
