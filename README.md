@@ -18,3 +18,4 @@ Specifikācija:
 * Programmā jābut iespējai beigt pievienot produktus.
 * Programmā jābut iespējai iegūt papildus informāciju par to kā strādā iepikrumu saraksts.
 * Programmai jāpaprasa cik katrs produkts maksā un jāspēj beigās dot pirkuma kopējo cenu.
+* Programma parādis produktus no dārgākā uz lētāko.
