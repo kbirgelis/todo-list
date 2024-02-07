@@ -15,7 +15,6 @@ Specifikācija:
 * Programmā jābūt iespējai noņemt/izdzēst lietas no sava iepirkuma saraksta.
 * Programmai jābut kaut cik noformētai
 * Programmā jābut iespējai ievadīt preču skaitu (ja vienāda prece tiek pirkta lielākā daudzumā par 1)
-
-*Programmā jābut iespējai beigt pievienot produktus.
-*Programmā jābut iespējai iegūt papildus informāciju par to kā strādā iepikrumu saraksts.
-*Programmai jāpaprasa cik katrs produkts maksā un jāspēj beigās dot pirkuma kopējo cenu.
+* Programmā jābut iespējai beigt pievienot produktus.
+* Programmā jābut iespējai iegūt papildus informāciju par to kā strādā iepikrumu saraksts.
+* Programmai jāpaprasa cik katrs produkts maksā un jāspēj beigās dot pirkuma kopējo cenu.
